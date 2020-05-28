@@ -17,9 +17,29 @@ h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 p{
-    font-size: large;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 40px;
+   margin-right: 120px;
 }
-img{
+.img-padrao{
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 450px;
+}
+.img-logo{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    width: 75px;
+}
+footer{
+    margin-bottom: 65px;
+    color:purple;
+    font-size: 45px;
+}
+batman{color:black}
+
+superman{color:blue}
+p {color:blue; color: black;
+    font-size:40px;
 }
